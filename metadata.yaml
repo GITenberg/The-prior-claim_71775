@@ -1,0 +1,39 @@
+_repo: The-prior-claim_71775
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wilford, L. F. (Louis F.)
+    alias: Wilford, Louis F.
+    gutenberg_agent_id: '56391'
+    url: http://www.gutenberg.org/2009/agents/56391
+creator:
+  author:
+    agent_name: Kelly, Eleanor Mercein
+    aliases:
+    - Mercein, Eleanor
+    - Mercien, Eleanor Kelly
+    - Kelly, Mrs. (Eleanor)
+    birthdate: 1880
+    deathdate: 1968
+    gutenberg_agent_id: '34497'
+    url: http://www.gutenberg.org/2009/agents/34497
+description: ''
+gutenberg_issued: '2023-10-02'
+identifiers:
+  gutenberg: '71775'
+language: en
+pgterms:marc905: 20230831064058kelly
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bMcClure Publishing Company, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Fiction'
+- !lcsh 'Frontier and pioneer life -- Kentucky -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The prior claim
+url: http://www.gutenberg.org/ebooks/71775
