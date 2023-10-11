@@ -6,6 +6,9 @@ contributor:
     alias: Wilford, Louis F.
     gutenberg_agent_id: '56391'
     url: http://www.gutenberg.org/2009/agents/56391
+covers:
+- cover_type: archival
+  image_path: 71775-h/images/cover.jpg
 creator:
   author:
     agent_name: Kelly, Eleanor Mercein
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '34497'
     url: http://www.gutenberg.org/2009/agents/34497
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71775#The-prior-claim
 gutenberg_issued: '2023-10-02'
 identifiers:
   gutenberg: '71775'
